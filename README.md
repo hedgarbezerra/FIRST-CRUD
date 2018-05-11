@@ -1,5 +1,5 @@
 # SWING-CRUD
-[PT-BR]
+###[PT-BR]
 
 Este foi meu primeiro programa com interface gráfica em Java.
 O programa é simples, usei JDBC para fazer a conexão com o banco de dados(Oracle)
@@ -16,7 +16,7 @@ Após ter atendido os requisitos o programa deverá funcionar corretamente.
 
 Obrigado pela atenção e se divirta!
 
-[EN]
+### [EN]
 <br/>
 This is the first GUI I've developed using Java.
 I used in order to develop it the JDBC library to make the connection with the database(Oracle)
