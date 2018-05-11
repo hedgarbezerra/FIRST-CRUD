@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="org.pushingpixels.trident_1.2.0.v20100204-1500.jar" sourcepath="org.pushingpixels.trident.source_1.2.0.v20100204-1500.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.e4.xwt_0.9.1.SNAPSHOT.jar" sourcepath="org.eclipse.e4.xwt.source_0.9.1.SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="org.eclipse.e4.xwt.forms_0.9.1.SNAPSHOT.jar" sourcepath="org.eclipse.e4.xwt.forms.source_0.9.1.SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hed/.p2/pool/plugins/org.eclipse.core.databinding_1.6.100.v20170515-1119.jar" sourcepath="C:/Users/Hed/.p2/pool/plugins/org.eclipse.core.databinding_1.6.100.v20170515-1119.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hed/.p2/pool/plugins/org.eclipse.core.databinding.observable_1.6.100.v20170515-1119.jar" sourcepath="C:/Users/Hed/.p2/pool/plugins/org.eclipse.core.databinding.observable_1.6.100.v20170515-1119.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hed/.p2/pool/plugins/org.eclipse.jface.databinding_1.8.100.v20170503-1507.jar" sourcepath="C:/Users/Hed/.p2/pool/plugins/org.eclipse.jface.databinding_1.8.100.v20170503-1507.jar"/>
+	<classpathentry kind="lib" path="C:/facul/Java/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/facul/Java/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
